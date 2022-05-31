@@ -3,7 +3,7 @@
 - hosts: nginx-servers
 
   vars:
-    back_ip: 192.168.10.13
+    back_ip: 192.168.10.11
     back_port: 5000
 
   tasks:
